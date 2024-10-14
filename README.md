@@ -30,13 +30,14 @@ A collection of header files implementing various data structures (e.g., linked 
 - ***Example usage*** for each structure.
 
 ## Installation
-1. Clone the repository:
+1. open terminal in your Project directory
+2. Clone the repository:
    ```bash
    git clone https://github.com/pawan-kumar-rajak/Data-Structure-Library.git
    ```
-2. Open Data-Structure-Library 
-3. copy the header files you needed and paste it in your code directory
-4. Include the header files in your Code:
+3. Open Data-Structure-Library 
+4. copy the header files you needed and paste it in your code directory
+5. Include the header files in your Code:
    ```cpp
    #include "LinkedList.h"
    #include "STACK.h"
