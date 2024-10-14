@@ -32,9 +32,11 @@ A collection of header files implementing various data structures (e.g., linked 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/pawan-kumar-rajak/Data-Structure-Library.git>
+   git clone https://github.com/pawan-kumar-rajak/Data-Structure-Library.git
    ```
-2. Include the header files in your project:
+2. Open Data-Structure-Library 
+3. copy the header files you needed and paste it in your code directory
+4. Include the header files in your Code:
    ```cpp
    #include "LinkedList.h"
    #include "STACK.h"
