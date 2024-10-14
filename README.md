@@ -90,6 +90,9 @@ A collection of header files implementing various data structures (e.g., linked 
 	
   ```
 
+- ***Visualization***
+<br><br>
+![LinkedList](/Visualization/LinkedList.png)
 ---
 #### Doubly Linked List
 
@@ -176,6 +179,10 @@ A collection of header files implementing various data structures (e.g., linked 
 	s.peek();
   s.display();
   ```
+
+- ***Visualization***
+<br><br>
+![Stack](/Visualization/STACK.png)
 ---
 ---
 ### Queue
@@ -188,7 +195,11 @@ A collection of header files implementing various data structures (e.g., linked 
 
 - **Example:**
   ```cpp
-   Queue q;
+
+    //give size while initialization or Default size=10
+
+    int size = 10;
+    Queue q(size);   //or Queue q;
     q.display();
     q.enqueue(1);
     q.enqueue(8);
@@ -196,7 +207,9 @@ A collection of header files implementing various data structures (e.g., linked 
    
     cout<<"front  " <<q.Front()<<endl;;
   ```
-
+- ***Visualization***
+<br><br>
+![Queue](/Visualization/Queue.png)
 <hr/>
 <hr/>
 <br>
@@ -246,6 +259,9 @@ A collection of header files implementing various data structures (e.g., linked 
                       8       9     10
     */
   ```
+- ***Visualization***
+<br><br>
+![BTree](/Visualization/Btree.png)
 ---
 #### Tree More Functions
 ```cpp

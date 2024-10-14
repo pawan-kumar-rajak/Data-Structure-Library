@@ -6,16 +6,27 @@ class Queue{
     int* arr;
     int front;
     int rear ;
-    int size ;
+    int size;
 
     public :
 
-        Queue()  //Constructor
+
+        Queue()  //Default Constructor
         {
             front = 0;
             rear = 0;
+            size=10;
+            
+            arr = new int[size];
+            cout<<"Queue is created !!"<<endl;
+        }
 
-            size = 10; //assume
+        Queue(int size)  //Constructor with parameter
+        {
+            front = 0;
+            rear = 0;
+            this->size = size;
+            
             arr = new int[size];
             cout<<"Queue is created !!"<<endl;
         }
