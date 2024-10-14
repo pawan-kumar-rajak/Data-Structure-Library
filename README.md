@@ -32,7 +32,7 @@ A collection of header files implementing various data structures (e.g., linked 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/pawan-kumar-rajak/Data-Structure-Library.git>
    ```
 2. Include the header files in your project:
    ```cpp
