@@ -209,7 +209,7 @@ A collection of header files implementing various data structures (e.g., linked 
   ```
 - ***Visualization***
 <br><br>
-![Queue](/Visualization/Queue.png)
+![Queue](/Visualization/QUEUE.png)
 <hr/>
 <hr/>
 <br>
@@ -261,7 +261,7 @@ A collection of header files implementing various data structures (e.g., linked 
   ```
 - ***Visualization***
 <br><br>
-![BTree](/Visualization/Btree.png)
+![BTree](/Visualization/BTree.png)
 ---
 #### Tree More Functions
 ```cpp
