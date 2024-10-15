@@ -304,28 +304,18 @@ A collection of header files implementing various data structures (e.g., linked 
 ---
 
 ### Graph
-- **Functions:**
-  - `void addEdge(int u, int v);`
-  - `void bfs(int startVertex);`
+- **Functions: ...soon...**
+  
 - **Example:**
-  ```cpp
-  Graph graph;
-  graph.addEdge(1, 2);
-  graph.bfs(1);
-  ```
+ 
 ---
 ---
 
 ### Hash Table
-- **Functions:**
-  - `void insert(int key, int value);`
-  - `int search(int key);`
+- **Functions: ...soon...**
+ 
 - **Example:**
-  ```cpp
-  HashTable ht;
-  ht.insert(1, 100);
-  int value = ht.search(1);
-  ```
+  
 
 
 ## Contributing
